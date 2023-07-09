@@ -1,0 +1,130 @@
+2023-06-28T05:27:56+00:00 CRITICAL syntax error, unexpected token ":", expecting ")" in D:\OSPanel\domains\desinerartisi\wp-content\themes\desiner-artist-child\functions.php on line 4
+
+2023-06-28T06:26:21+00:00 CRITICAL Uncaught Error: Call to undefined function designer_artist_the_breadcrumb() in D:\OSPanel\domains\desinerartisi\wp-content\themes\desiner-artist-child\page.php:23
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-content\themes\desiner-artist-child\page.php on line 23
+
+2023-06-28T14:01:49+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:29+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:30+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:30+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:31+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:32+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:32+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:33+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:33+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2023-06-28T14:38:34+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "designer_artist_Customize_partial_blogname" not found or invalid function name in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 D:\OSPanel\domains\desinerartisi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\desinerartisi\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\desinerartisi\wp-includes\template-loader.php(13): do_action()
+#5 D:\OSPanel\domains\desinerartisi\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\desinerartisi\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\desinerartisi\wp-includes\customize\class-wp-customize-partial.php on line 222
+

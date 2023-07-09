@@ -1,0 +1,17 @@
+/*
+Theme Name: Desiner Artist Child theme
+Template: designer-artist
+*/
+
+/* .home-page-header {
+	height: 500px;
+	position: absolute;
+} */
+
+@import url("css/fonts.css");
+@import url("css/header.css");
+@import url("css/slider.css");
+@import url("css/product-section.css");
+@import url("css/footer.css");
+@import url("css/content-frontpage.css");
+/* @import url("assets/css/style.min.css"); */

@@ -1,0 +1,35 @@
+@font-face {
+	font-family: "majestic_personal_useregular";
+	src: url("../fonts/majesticpersonaluseregular-zvp3b-webfont.woff2") format("woff2"),
+		url("../fonts/majesticpersonaluseregular-zvp3b-webfont.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "billie_sight_personal_useRg";
+	src: url("../fonts/billiesightpersonaluse-webfont.woff2") format("woff2"),
+		url("../fonts/billiesightpersonaluse-webfont.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "icons";
+	src: url("..//fonts/icons.woff2") format("woff2"), url("../fonts/icons.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+._icon-envelope-icon:before {
+	content: "\e900";
+	font-family: icons;
+}
+._icon-phone-icon:before {
+	content: "\e901";
+	font-family: icons;
+}
+
+._icon-basket-shopping:before {
+	content: "\e902";
+	font-family: icons;
+}

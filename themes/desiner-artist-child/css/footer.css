@@ -1,0 +1,132 @@
+footer {
+	background-image: url("../assets/img/footer.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+}
+
+.footer__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+	color: #fff;
+	font-size: 40px;
+	font-weight: 600;
+	width: 1440px;
+}
+
+.site-name-footer {
+	display: flex;
+	flex-direction: column;
+}
+
+.mail-footer,
+.site-name-footer,
+.phone-footer {
+	background-color: rgb(166, 69, 203, 0.5);
+	border-radius: 20px;
+	text-shadow: 0px 0px 12px rgba(0, 16, 49, 0.58), 0px 0px 13px rgb(0, 16, 49, 0.58);
+}
+
+.mail-footer,
+.phone-footer {
+	height: 90px;
+	display: flex;
+	align-items: center;
+	padding: 0 50px;
+	font-size: 30px;
+	text-shadow: 0px 0px 12px rgba(0, 16, 49, 0.58), 0px 0px 13px rgb(0, 16, 49, 0.58);
+}
+
+.site-name-footer {
+	height: 240px;
+	width: 350px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0 50px;
+}
+
+.site-name-footer .site-name {
+	font-family: majestic_personal_useregular;
+	text-shadow: 0px 0px 12px rgba(0, 16, 49, 0.58), 0px 0px 13px rgb(0, 16, 49, 0.58);
+	font-size: 40px;
+}
+
+.arts-footer {
+	font-family: "billie_sight_personal_useRg";
+	text-shadow: 0px 0px 12px rgba(0, 16, 49, 0.58), 0px 0px 13px rgb(0, 16, 49, 0.58);
+	margin-top: 30px;
+	font-size: 70px;
+}
+/* .widget .phone-footer {
+}
+
+footer .row {
+	justify-content: space-around;
+}
+
+.mail-footer {
+	flex: 1 0 auto;
+	height: 90px;
+}
+
+.mail-footer p {
+	border-radius: 12px;
+	background-color: rgb(154, 35, 242);
+	opacity: 0.651;
+	font-size: 20px !important;
+	font-weight: 700;
+	height: 90px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.name-footer {
+	border-radius: 18px;
+	background-color: rgb(154, 35, 242);
+	opacity: 0.651;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	border-radius: 18px;
+	background-color: rgb(154, 35, 242);
+	opacity: 0.651;
+	width: 346px;
+	height: 200px;
+}
+
+.phone-footer p {
+	border-radius: 12px;
+	background-color: rgb(154, 35, 242);
+	opacity: 0.651;
+	font-size: 20px !important;
+	font-weight: 700;
+	flex: 1 0 auto;
+	width: 100%;
+}
+
+.name-footer .name-site {
+	font-family: "majestic_personal_useregular";
+}
+
+.name-site {
+	font-size: 50px !important;
+}
+
+.name-footer .deviz {
+	font-family: "billie_sight_personal_useRg";
+	font-size: 60px !important;
+}
+
+footer .row {
+	align-items: center;
+} */

@@ -1,0 +1,2 @@
+2023-07-08T06:33:28+00:00 CRITICAL Out of memory (allocated 73400320) (tried to allocate 32768 bytes) in D:\OSPanel\domains\desinerartisi\wp-content\plugins\google-listings-and-ads\src\Internal\Requirements\GoogleProductFeedValidator.php on line 1
+

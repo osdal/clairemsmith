@@ -1,0 +1,57 @@
+Hello Dmitro,
+I have another task. An easy one.
+We need a wordpress site created from a psd using a template.
+
+
+
+Here is the template:
+https://wordpress.org/themes/designer-artist/
+
+
+
+Attached is the jpg. I will upload the psd to her sever
+
+
+
+JUST A FEW CHANGES ON THE ATTACHED SAMPLE.
+
+
+
+Only changes would be:
+1. Company name Claire M. Smith Arts (not Claire Smith Arts - ADD MIDDLE INITIAL)
+2. Indent the text in the content area so it doesn't go so far across the page
+3. We will be changing one picture in the bottom section.
+change broken Appreciate picture to hope - WILL GET THE NEW PIC TO YOU
+4. correct email address is: clairesmith.12323@yahoo.com (for top and bottom of page)
+5. In the footer, where I have a phone number on the right, it should be the email address
+6. at the top and in the footer the email and phone number should be corrected.
+correct phone number is: 310.463.1007
+
+
+
+I sent the theme. And the home page should look EXACTLY like the image I sent.
+The child pages, everything will be the same (top banner and footer).
+About page will also have the 4 boxes below the top banner. Only text content will be different.
+The shop page content area will be blank for now.
+The Contact page content will have the 4 boxes below the banner and the text will be:
+Please feel free to contact us.
+THEN HER EMAIL ADDRESS
+THEN HER PHONE NUMBER
+
+
+
+Please let me know how much time to do this. I am getting quotes from 3 people. Thank you!!!
+
+
+
+If things go well, I wills send you more more! 🙂
+
+WordPress.org
+Designer Artist
+Designer Artist is a professional website template designed specifically for artists and creatives who want to create an online presence for their work. The theme features a clean, modern, and professional design that looks good and functions well. Customization is made simple with a user-friendly interface, even for those without much web design experience. The theme offers a full-width header, perfect for showcasing images of your art or creative projects, and a catalog section to present your offerings in an organized and attractive manner. One of the key features of the Designer Artist is its responsiveness, ensuring that your website will look great on any device, including desktops, laptops, tablets, and smartphones. This is especially important for artists who want their work accessible from any device and reach a wider audience. The theme is designed to help increase your online visibility with the help of SEO optimization and attract more potential customers to your website. It offers several customization options, including custom colors, fonts, and the ability to upload your logo, which allows you to make your website unique and reflective of your brand. Overall, the Designer Artist is an excellent choice for artists and creatives who want to create an online presence for their work. With its clean, modern, professional design, user-friendly interface, and responsive layout, this theme offers everything you need to showcase your work and attract potential customers. Whether you're a professional artist or just starting, the Designer Artist provides a versatile and professional platform to help you achieve your goals. Demo: https://www.vwthemes.net/designer-artist/
+2 files 
+
+Claire-arts_calm.jpg
+2.13 MB
+About page.docx
+11.86 kB

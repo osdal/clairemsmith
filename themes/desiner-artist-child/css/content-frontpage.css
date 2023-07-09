@@ -1,0 +1,17 @@
+#content-vw {
+	text-align: justify;
+	font-family: serif;
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+}
+#content-vw p,
+#content-vw em {
+	font-size: 30px;
+	margin-bottom: 50px;
+	color: #000;
+}
+
+#content-vw .container {
+	padding: 0 100px;
+}
